@@ -7,7 +7,6 @@ Use this template when logging a new client incident. Copy and paste this format
 ## Client Information
 - **Client Name:** 
 - **Contact Person:** 
-- **Account ID:** 
 - **Email/Phone:** 
 
 ## Incident Details
